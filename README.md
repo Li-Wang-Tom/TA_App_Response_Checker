@@ -56,8 +56,8 @@ python TA_App_Response_Checker.py
 
 ```
 TA_App_Response_Checker/
-├─ TA_App_Response_Checker.py          # メインアプリケーション
-├─ requirements.txt                    # 依存関係
+├─ TA_App_Response_Checker.py         # メインアプリケーション
+├─ requirements.txt                   # 依存関係
 ├─ README.md                          # このファイル
 ├─ LICENSE                            # ライセンス
 ├─ Skull_icon.ico                     # アプリケーションアイコン
