@@ -53,17 +53,20 @@ python TA_App_Response_Checker.py
 ## 🛠️ 開発者向け情報
 
 ### ファイル構成
+
 ```
 TA_App_Response_Checker/
-├─ TA_App_Response_Checker.py  # メインアプリケーション
-├─ requirements.txt            # 依存関係
-├─ README.md                   # このファイル
-├─ LICENSE                     # ライセンス
-└─ docs/                       # ドキュメント
-   └─ screenshot.png           # スクリーンショット
+├─ TA_App_Response_Checker.py          # メインアプリケーション
+├─ requirements.txt                    # 依存関係
+├─ README.md                          # このファイル
+├─ LICENSE                            # ライセンス
+├─ Skull_icon.ico                     # アプリケーションアイコン
+└─ docs/                              # ドキュメント
+   └─ screenshot.png                  # スクリーンショット
 ```
 
 ### 主要クラス・関数
+
 - `PythonScriptDetector` - メインアプリケーションクラス
 - `search_python_script()` - Pythonスクリプト検索
 - `test_response()` - 応答テスト実行
